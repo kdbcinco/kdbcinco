@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<marquee>This text will scroll from right to left</marquee>
+<blink>Hehehe</blink>
