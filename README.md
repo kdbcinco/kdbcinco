@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<blink>Hehehe</blink>
+<img src="https://picsum.photos/id/237/2000/3000">
