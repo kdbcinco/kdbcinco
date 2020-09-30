@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://picsum.photos/id/237/200/5000">
+<img src="https://picsum.photos/id/237/200/5000">
