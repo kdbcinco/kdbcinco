@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://picsum.photos/id/237/2000/3000">
+<img src="https://picsum.photos/id/237/2000/3000" width="6000">
