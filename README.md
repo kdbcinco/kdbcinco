@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
-  <marquee behavior="alternate">
-    HUEHUEHUE
-  </marquee>
-</marquee>
+<marquee>This text will scroll from right to left</marquee>
